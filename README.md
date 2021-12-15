@@ -20,7 +20,7 @@
 
 ## 테마 변경하기
 ### 1) 원하는 테마 선택하기
-　[이곳](http://jekyllthemes.org/)과 [이곳](https://jekyllthemes.io/free)의 테마중 원하는 테마([Moon](http://jekyllthemes.org/themes/moon/)) 선택
+　[이곳](http://jekyllthemes.org/)과 [이곳](https://jekyllthemes.io/free)의 테마중 원하는 테마([Hyde](http://jekyllthemes.org/themes/hyde/)) 선택
 
 ### 2) 테마 정보 받아오기
 　git clone을 통해 Hyde테마를 로컬로 복제
@@ -30,3 +30,6 @@
 
 ### 4) 원격 저장소에 반영하기
 　git add, commit, push를 통해 원격 저장소에 테마 적용
+ 
+### ...하려 했으나 생각했던대로 진행되지 않아
+　[__Moon__](http://jekyllthemes.org/themes/moon/) 테마를 fork하여 적용

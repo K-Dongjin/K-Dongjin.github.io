@@ -1,4 +1,4 @@
-# K-Dongjin.github.io 블로그 만들기
+# [K-Dongjin.github.io](https://k-dongjin.github.io/) 블로그 만들기
 ## 블로그 생성
 ### 1) github 저장소 만들기
 　'K-Dongjin.github.io' 이름의 저장소 생성
@@ -6,7 +6,7 @@
 ### 2) 로컬 저장소 연결하기
 　'git clone' 명령을 이용하여 원격 저장소를 로컬 저장소에 복제
 
-### 3) https://_username_.github.io 생성하기
+### 3)[_K-Dongjin.github.io_](https://k-dongjin.github.io/) 생성하기
 　Jekyll과 ruby를 이용하여 블로그 생성
 
 

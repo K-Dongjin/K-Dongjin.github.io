@@ -8,7 +8,7 @@ logo:               'assets/img/assignment.jpg'
 background:         'assets/img/lighthouse.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://K-Dongjin.github.io/
+url:                https://K-Dongjin.github.io//
 
 # Jekyll
 permalink:          /:title/
@@ -53,7 +53,7 @@ instagram:          dong_jin22250
 #steam:             username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:    BLACKPINK
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

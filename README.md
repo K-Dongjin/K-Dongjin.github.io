@@ -23,7 +23,7 @@
 　[이곳](http://jekyllthemes.org/)과 [이곳](https://jekyllthemes.io/free)의 테마중 원하는 테마([Hyde](http://jekyllthemes.org/themes/hyde/)) 선택
 
 ### 2) 테마 정보 받아오기
-　git clone을 통해 Hyde테마를 로컬로 복제
+　git clone을 통해 Hyde테마를 로컬 저장소로 복제
 
 ### 3) 테마 덮어쓰기
 　받아온 Hyde테마 정보를 덮어씀(___posts__ 는 제외)
